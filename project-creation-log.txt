@@ -1,0 +1,85 @@
+오후 5:45 2022-07-02
+
+D:\yoocoding\_github_mine_>npx react-native init ReactNativeCoolProject
+
+npm WARN config global `--global`, `--local` are deprecated. Use `--location=global` instead.
+Need to install the following packages:
+  react-native
+Ok to proceed? (y) y
+npm WARN ERESOLVE overriding peer dependency
+npm WARN While resolving: react-shallow-renderer@16.14.1
+npm WARN Found: react@18.0.0
+npm WARN node_modules/react
+npm WARN   peer react@"18.0.0" from react-native@0.69.1
+npm WARN   node_modules/react-native
+npm WARN     react-native@"*" from the root project
+npm WARN     1 more (@react-native-community/cli)
+npm WARN   1 more (use-sync-external-store)
+npm WARN
+npm WARN Could not resolve dependency:
+npm WARN peer react@"^16.0.0 || ^17.0.0" from react-shallow-renderer@16.14.1
+npm WARN node_modules/react-shallow-renderer
+npm WARN   react-shallow-renderer@"16.14.1" from react-native@0.69.1
+npm WARN   node_modules/react-native
+npm WARN
+npm WARN Conflicting peer dependency: react@17.0.2
+npm WARN node_modules/react
+npm WARN   peer react@"^16.0.0 || ^17.0.0" from react-shallow-renderer@16.14.1
+npm WARN   node_modules/react-shallow-renderer
+npm WARN     react-shallow-renderer@"16.14.1" from react-native@0.69.1
+npm WARN     node_modules/react-native
+npm WARN deprecated source-map-url@0.4.1: See https://github.com/lydell/source-map-url#deprecated
+npm WARN deprecated urix@0.1.0: Please see https://github.com/lydell/urix#deprecated
+npm WARN deprecated resolve-url@0.2.1: https://github.com/lydell/resolve-url#deprecated
+npm WARN deprecated source-map-resolve@0.5.3: See https://github.com/lydell/source-map-resolve#deprecated
+npm WARN deprecated uglify-es@3.3.9: support for ECMAScript is superseded by `uglify-js` as of v3.13.0
+
+               ######                ######
+             ###     ####        ####     ###
+            ##          ###    ###          ##
+            ##             ####             ##
+            ##             ####             ##
+            ##           ##    ##           ##
+            ##         ###      ###         ##
+             ##  ########################  ##
+          ######    ###            ###    ######
+      ###     ##    ##              ##    ##     ###
+   ###         ## ###      ####      ### ##         ###
+  ##           ####      ########      ####           ##
+ ##             ###     ##########     ###             ##
+  ##           ####      ########      ####           ##
+   ###         ## ###      ####      ### ##         ###
+      ###     ##    ##              ##    ##     ###
+          ######    ###            ###    ######
+             ##  ########################  ##
+            ##         ###      ###         ##
+            ##           ##    ##           ##
+            ##             ####             ##
+            ##             ####             ##
+            ##          ###    ###          ##
+             ###     ####        ####     ###
+               ######                ######
+
+
+                  Welcome to React Native!
+                 Learn once, write anywhere
+
+√ Downloading template
+√ Copying template
+√ Processing template
+√ Installing dependencies
+
+
+  Run instructions for Android:
+    • Have an Android emulator running (quickest way to get started), or a device connected.
+    • cd "D:\yoocoding\_github_mine_\ReactNativeCoolProject" && npx react-native run-android
+
+  Run instructions for Windows:
+    • See https://aka.ms/ReactNativeGuideWindows for the latest up-to-date instructions.
+
+
+npm notice
+npm notice New minor version of npm available! 8.11.0 -> 8.13.2
+npm notice Changelog: https://github.com/npm/cli/releases/tag/v8.13.2
+npm notice Run npm install -g npm@8.13.2 to update!
+npm notice

@@ -1,0 +1,37 @@
+BUILD FAILED in 5m 12s
+
+error Failed to install the app. Make sure you have the Android development environment set up: https://reactnative.dev/docs/environment-setup.
+Error: Command failed: gradlew.bat app:installDebug -PreactNativeDevServerPort=8081
+Note: D:\yoocoding\_github_mine_\ReactNativeCoolProject\node_modules\react-native-gradle-plugin\src\main\java\com\facebook\react\codegen\generator\SchemaJsonParser.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+
+FAILURE: Build failed with an exception.
+
+* Where:
+Build file 'D:\yoocoding\_github_mine_\ReactNativeCoolProject\android\app\build.gradle' line: 1
+
+* What went wrong:
+A problem occurred evaluating project ':app'.
+> Failed to apply plugin 'com.android.internal.application'.
+   > Android Gradle plugin requires Java 11 to run. You are currently using Java 1.8.
+     You can try some of the following options:
+       - changing the IDE settings.
+       - changing the JAVA_HOME environment variable.
+       - changing `org.gradle.java.home` in `gradle.properties`.
+
+* Try:
+> Run with --stacktrace option to get the stack trace.
+> Run with --info or --debug option to get more log output.
+> Run with --scan to get full insights.
+
+* Get more help at https://help.gradle.org
+
+BUILD FAILED in 5m 12s
+
+    at makeError (D:\yoocoding\_github_mine_\ReactNativeCoolProject\node_modules\@react-native-community\cli-platform-android\node_modules\execa\index.js:174:9)
+    at D:\yoocoding\_github_mine_\ReactNativeCoolProject\node_modules\@react-native-community\cli-platform-android\node_modules\execa\index.js:278:16
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async runOnAllDevices (D:\yoocoding\_github_mine_\ReactNativeCoolProject\node_modules\@react-native-community\cli-platform-android\build\commands\runAndroid\runOnAllDevices.js:109:5)
+    at async Command.handleAction (D:\yoocoding\_github_mine_\ReactNativeCoolProject\node_modules\@react-native-community\cli\build\index.js:192:9)
+info Run CLI with --verbose flag for more details.
+
